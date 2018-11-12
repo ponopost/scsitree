@@ -1,0 +1,9 @@
+
+LIBRARY		SCSITREE
+
+DESCRIPTION	'Control Panel Applet - SCSITREE'
+
+EXPORTS
+	CPlApplet
+        ScsiDlgProc
+
